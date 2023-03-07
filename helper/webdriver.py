@@ -1,4 +1,4 @@
-from helper.helper_base import HelperFunc
+from helper_base import HelperFunc
 from selenium.webdriver.support.wait import WebDriverWait
 
 
